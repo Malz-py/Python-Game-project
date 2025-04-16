@@ -43,3 +43,5 @@ memory_game.py
 
 # 4. Run the arcade
 python main_menu_games.py
+
+![image](https://github.com/user-attachments/assets/8965a76f-0460-4ee5-914b-ba0b76b8161f)
