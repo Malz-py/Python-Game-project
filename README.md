@@ -29,8 +29,8 @@ Welcome to the **Python Game Arcade**, a desktop-based game hub built with `Tkin
 
 ```bash
 # 1. Clone this repository
-git clone https://github.com/yourusername/python-game-arcade.git
-cd python-game-arcade
+git clone https://github.com/Malz-py/Python-Game-project.git
+cd Python-Game-Project
 
 # 2. Install packages
 intall Pillow
