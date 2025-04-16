@@ -32,13 +32,14 @@ Welcome to the **Python Game Arcade**, a desktop-based game hub built with `Tkin
 git clone https://github.com/yourusername/python-game-arcade.git
 cd python-game-arcade
 
-# 2. (Optional) Create and activate a virtual environment
-python -m venv venv
-source venv/bin/activate   # macOS/Linux
-venv\Scripts\activate      # Windows
+# 2. Install packages
+intall Pillow
 
-# 3. Install dependencies
-pip install -r requirements.txt  # For PIL, if used
+# 3 download the following py files and save them into a folder 
+tictactoe.py
+pong_game.py
+number_guess.py
+memory_game.py
 
 # 4. Run the arcade
-python main.py
+python main_menu_games.py
