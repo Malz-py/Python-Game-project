@@ -1,0 +1,28 @@
+# Pong Game – Instructions
+
+## 🎮 How to Play
+
+Pong is a two-player game where each player controls a paddle on opposite sides of the screen. The goal is to bounce the ball back and forth without missing. The first player to reach 10 points wins.
+
+---
+
+## 🕹 Controls
+
+### Player 1 (Left Paddle)
+- **W** – Move Up  
+- **S** – Move Down  
+
+### Player 2 (Right Paddle)
+- **Up Arrow** – Move Up  
+- **Down Arrow** – Move Down  
+
+---
+
+## 🏁 Game End
+
+- The game ends when a player reaches **10 points**.
+- A **"Game Over"** message appears showing the winner.
+- Press the **"Restart"** button to play again.
+
+---
+
