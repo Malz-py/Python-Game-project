@@ -7,7 +7,7 @@ class NumberGuessingGame:
         self.root = root 
         self.root.title("Number Guessing Game 🎯") 
         self.root.geometry("400x350") 
-        self.root.configure(bg="#2E3440
+        self.root.configure(bg="#2E3440")
     
         #Generates the number and selects the amount of guesses the user has. 
         self.secret_number = random.randint(1, 75)
