@@ -1,0 +1,33 @@
+# Number Guessing Game – Instructions
+
+## 🎯 Objective
+
+Try to guess the randomly selected number chosen by the computer within the fewest attempts possible!
+
+---
+
+## 🕹 How to Play
+
+1. The computer selects a random number between **1 and 100**.
+2. You will be prompted to guess the number.
+3. After each guess, the game will give you feedback:
+   - **"Too high!"** if your guess is above the number.
+   - **"Too low!"** if your guess is below the number.
+   - **"Correct!"** if you guess the right number.
+
+---
+
+## 🧠 Tips
+
+- Use the feedback after each guess to narrow down your next guess.
+- Try using a binary search approach: guess in the middle of the range to cut possibilities in half each time.
+
+---
+
+## 🏁 Game End
+
+- The game ends when you guess the correct number.
+- Your total number of attempts will be displayed.
+- You can then close the game or restart to try again.
+
+---
